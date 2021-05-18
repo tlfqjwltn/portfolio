@@ -1,6 +1,9 @@
 # portfolio
 
 e. 2021.05.04
+update 2.0v 2021.05.18
+* 반응형 (모바일) 추가
+* 마크업 수정
 
 My Portfolio
 
