@@ -1,11 +1,6 @@
 # portfolio
 
-e. 2021.05.04 <br>
-
-update 2.0v 2021.05.18
-* 반응형 (모바일) 추가
-* 마크업 수정
-* Jquery 일부 추가
+e. 2021.05.04 
 
 My Portfolio
 
@@ -18,3 +13,11 @@ My Portfolio
 Coding Point /
 
 95% 이상 Vanilla js로 작성하였습니다.
+
+
+업데이트 내역 / 
+
+update 2.0v 2021.05.18
+* 반응형 (모바일) 추가
+* 마크업 수정
+* Jquery 일부 추가
