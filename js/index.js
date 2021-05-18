@@ -2,13 +2,8 @@ window.onload = function(){
     let windowW = document.body.clientWidth;
     let windowH = document.scrollingElement.scrollTop;
     
-    if(windowW>800){
-        webScroll();
-        webJs();
-    } else {
-        
-    }
-
+    webScroll();
+    webJs();
     
     let timer = null;
     window.addEventListener('resize',function(){
@@ -23,7 +18,7 @@ window.onload = function(){
         },250);
     });
     // 반응형 resize
-
+    
     function webJs(){
         gnbBtn();
         allMenuOn();
